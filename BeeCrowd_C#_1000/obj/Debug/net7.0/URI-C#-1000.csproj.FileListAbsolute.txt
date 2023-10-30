@@ -1,0 +1,4 @@
+C:\Users\costa\Documents\URI Invent Software\URI-C#-1000\obj\Debug\net7.0\URI-C#-1000.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\costa\Documents\URI Invent Software\URI-C#-1000\obj\Debug\net7.0\URI-C#-1000.AssemblyInfoInputs.cache
+C:\Users\costa\Documents\URI Invent Software\URI-C#-1000\obj\Debug\net7.0\URI-C#-1000.AssemblyInfo.cs
+C:\Users\costa\Documents\URI Invent Software\URI-C#-1000\obj\Debug\net7.0\URI-C#-1000.csproj.CoreCompileInputs.cache

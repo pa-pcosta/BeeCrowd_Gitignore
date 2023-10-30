@@ -1,0 +1,14 @@
+C:\Users\costa\Documents\URI Invent Software\URI-C#-1000\URI-C#-1000\bin\Debug\net6.0\URI-C#-1000.exe
+C:\Users\costa\Documents\URI Invent Software\URI-C#-1000\URI-C#-1000\bin\Debug\net6.0\URI-C#-1000.deps.json
+C:\Users\costa\Documents\URI Invent Software\URI-C#-1000\URI-C#-1000\bin\Debug\net6.0\URI-C#-1000.runtimeconfig.json
+C:\Users\costa\Documents\URI Invent Software\URI-C#-1000\URI-C#-1000\bin\Debug\net6.0\URI-C#-1000.dll
+C:\Users\costa\Documents\URI Invent Software\URI-C#-1000\URI-C#-1000\bin\Debug\net6.0\URI-C#-1000.pdb
+C:\Users\costa\Documents\URI Invent Software\URI-C#-1000\URI-C#-1000\obj\Debug\net6.0\URI-C#-1000.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\costa\Documents\URI Invent Software\URI-C#-1000\URI-C#-1000\obj\Debug\net6.0\URI-C#-1000.AssemblyInfoInputs.cache
+C:\Users\costa\Documents\URI Invent Software\URI-C#-1000\URI-C#-1000\obj\Debug\net6.0\URI-C#-1000.AssemblyInfo.cs
+C:\Users\costa\Documents\URI Invent Software\URI-C#-1000\URI-C#-1000\obj\Debug\net6.0\URI-C#-1000.csproj.CoreCompileInputs.cache
+C:\Users\costa\Documents\URI Invent Software\URI-C#-1000\URI-C#-1000\obj\Debug\net6.0\URI-C#-1000.dll
+C:\Users\costa\Documents\URI Invent Software\URI-C#-1000\URI-C#-1000\obj\Debug\net6.0\refint\URI-C#-1000.dll
+C:\Users\costa\Documents\URI Invent Software\URI-C#-1000\URI-C#-1000\obj\Debug\net6.0\URI-C#-1000.pdb
+C:\Users\costa\Documents\URI Invent Software\URI-C#-1000\URI-C#-1000\obj\Debug\net6.0\URI-C#-1000.genruntimeconfig.cache
+C:\Users\costa\Documents\URI Invent Software\URI-C#-1000\URI-C#-1000\obj\Debug\net6.0\ref\URI-C#-1000.dll
