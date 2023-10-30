@@ -1,0 +1,7 @@
+C:\Users\costa\Documents\URI Invent Software\URI_C#_1043\URI_C#_1043\obj\Debug\URI_C#_1043.csproj.AssemblyReference.cache
+C:\Users\costa\Documents\URI Invent Software\URI_C#_1043\URI_C#_1043\obj\Debug\URI_C#_1043.csproj.CoreCompileInputs.cache
+C:\Users\costa\Documents\URI Invent Software\URI_C#_1043\URI_C#_1043\bin\Debug\URI_C#_1043.exe.config
+C:\Users\costa\Documents\URI Invent Software\URI_C#_1043\URI_C#_1043\bin\Debug\URI_C#_1043.exe
+C:\Users\costa\Documents\URI Invent Software\URI_C#_1043\URI_C#_1043\bin\Debug\URI_C#_1043.pdb
+C:\Users\costa\Documents\URI Invent Software\URI_C#_1043\URI_C#_1043\obj\Debug\URI_C#_1043.exe
+C:\Users\costa\Documents\URI Invent Software\URI_C#_1043\URI_C#_1043\obj\Debug\URI_C#_1043.pdb
