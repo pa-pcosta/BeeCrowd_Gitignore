@@ -1,0 +1,7 @@
+C:\Users\costa\Documents\URI Invent Software\URI-C#-1007\URI-C#-1007\bin\Debug\URI-C#-1007.exe.config
+C:\Users\costa\Documents\URI Invent Software\URI-C#-1007\URI-C#-1007\bin\Debug\URI-C#-1007.exe
+C:\Users\costa\Documents\URI Invent Software\URI-C#-1007\URI-C#-1007\bin\Debug\URI-C#-1007.pdb
+C:\Users\costa\Documents\URI Invent Software\URI-C#-1007\URI-C#-1007\obj\Debug\URI-C#-1007.csproj.AssemblyReference.cache
+C:\Users\costa\Documents\URI Invent Software\URI-C#-1007\URI-C#-1007\obj\Debug\URI-C#-1007.csproj.CoreCompileInputs.cache
+C:\Users\costa\Documents\URI Invent Software\URI-C#-1007\URI-C#-1007\obj\Debug\URI-C#-1007.exe
+C:\Users\costa\Documents\URI Invent Software\URI-C#-1007\URI-C#-1007\obj\Debug\URI-C#-1007.pdb
